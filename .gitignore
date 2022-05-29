@@ -4,7 +4,6 @@ package-lock.json
 public/robots.txt
 src/App.css
 src/App.test.js
-src/reportWebVitals.js
 src/setupTests.js
 
 # dependencies

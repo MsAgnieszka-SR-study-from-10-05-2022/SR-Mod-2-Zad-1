@@ -1,4 +1,6 @@
-# This project shows us short information about news from the world that are placed in a board.
+# Module 2 Project 1 - Clickbait app
+
+## This project shows us short information about news from the world that are placed in a board.
 
 -------------------------
 

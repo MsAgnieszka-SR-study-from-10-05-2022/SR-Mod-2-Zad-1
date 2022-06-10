@@ -50,8 +50,8 @@ const styles = {
 	},
 };
 
-const shorterIntroElement = (intro) => {
-	if ( intro.length > 25 ) {
+const shorterIntroElement = (intro, customIntroLength = 25) => {
+	if ( intro.length > customIntroLength ) {
 		const slicedIntro = intro.slice(0,25);
 		const slicedIntroWithDots = slicedIntro.concat('...');
 		return slicedIntroWithDots;
